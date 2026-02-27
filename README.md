@@ -46,7 +46,7 @@
 - [License](#-license)
 - [Acknowledgements](#-acknowledgements)
 - [Contact](#-contact)
--[Download](https://github.com/stitchmooncrimp/VoxShift/releases/download/V1/VoxShift_upd.rar)
+  -[Download](https://github.com/stitchmooncrimp/VoxShift/releases/download/V1/VoxShift_upd.rar)
 ---
 
 <!-- ============================== -->
